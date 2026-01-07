@@ -4,7 +4,7 @@ Greenden is a modern, responsive plant showroom website built using HTML and Tai
 The project focuses on clean UI design, responsiveness, and reusable utility-first styling to showcase plants in an elegant and user-friendly way.
 
 🚀 Live Demo
-👉 
+👉 https://shyamjeerajendran.github.io/project-greenden-nursery-tailwind/
 
 🛠️ Built With
 HTML5
